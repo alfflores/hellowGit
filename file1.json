@@ -9,8 +9,8 @@
         "contractSubsystemSkey": 9856,
         "packageSerialNo": "KC09869",
         "tierName": "EHM",
-        "latitude": null,
-        "longitude": null
+        "latitude": 99,
+        "longitude": 99
       },
       {
         "contractSubsystemSkey": 9838,
