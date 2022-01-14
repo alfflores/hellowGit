@@ -1,0 +1,24 @@
+{
+  "application": "insight",
+  "dateChanged": "2022-01-10 12:51:30.0",
+  "sessionData": {
+    "theme": "dark",
+    "pd_psn_esn": true,
+    "selectedEquipments": [
+      {
+        "contractSubsystemSkey": 9856,
+        "packageSerialNo": "KC09869",
+        "tierName": "EHM",
+        "latitude": null,
+        "longitude": null
+      },
+      {
+        "contractSubsystemSkey": 9838,
+        "packageSerialNo": "MC09857",
+        "tierName": "EHM",
+        "latitude": null,
+        "longitude": null
+      }
+    ]
+  }
+}
