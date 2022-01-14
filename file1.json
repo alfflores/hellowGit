@@ -1,8 +1,8 @@
 {
   "application": "insight",
-  "dateChanged": "2022-01-10 12:51:30.0",
+  "dateChanged": "2022-01-14 16:54:30.0",
   "sessionData": {
-    "theme": "dark",
+    "theme": "light",
     "new": "yes",
     "pd_psn_esn": true,
     "selectedEquipments": [
