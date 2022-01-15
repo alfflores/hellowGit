@@ -5,6 +5,7 @@
     "theme": "light",
     "new": "yes",
     "pd_psn_esn": true,
+    "description":"Juan mmodifica",
     "selectedEquipments": [
       {
         "contractSubsystemSkey": 9856,
