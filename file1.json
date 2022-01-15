@@ -5,7 +5,8 @@
     "theme": "light",
     "new": "yes",
     "pd_psn_esn": true,
-    "description":"Juan mmodifica",
+    "description":"Juan modifica",
+    "apellido":"Perez",
     "selectedEquipments": [
       {
         "contractSubsystemSkey": 9856,
