@@ -7,6 +7,7 @@
     "pd_psn_esn": true,
     "description":"Juan modifica",
     "apellido":"Perez",
+    "edad":44,
     "selectedEquipments": [
       {
         "contractSubsystemSkey": 9856,
