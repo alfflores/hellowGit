@@ -8,6 +8,7 @@
     "description":"Juan modifica",
     "apellido":"Perez",
     "edad":"44",
+    "fechaNac":"01/11/1977",
     "selectedEquipments": [
       {
         "contractSubsystemSkey": 9856,
