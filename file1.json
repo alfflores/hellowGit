@@ -10,6 +10,7 @@
     "edad":"44",
     "fechaNac":"01/11/1977",
     "image":"src/images/tmp.jpg",
+    "video":"src/videos/movie.mp4",
     "selectedEquipments": [
       {
         "contractSubsystemSkey": 9856,
