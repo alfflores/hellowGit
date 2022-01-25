@@ -10,7 +10,7 @@
     "edad":"44",
     "fechaNac":"01/11/1977",
     "image":"src/images/tmp.jpg",
-    "video":"src/videos/movie.mp4",
+    "video":"src/videos/movie_rambo.mp4",
     "selectedEquipments": [
       {
         "contractSubsystemSkey": 9856,
